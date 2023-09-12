@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8515bdc6.chunk.css",
+    "main.js": "/static/js/main.2a059f84.chunk.js",
+    "main.js.map": "/static/js/main.2a059f84.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8233b8b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8233b8b5.js.map",
+    "static/css/2.9af896a7.chunk.css": "/static/css/2.9af896a7.chunk.css",
+    "static/js/2.8f66513c.chunk.js": "/static/js/2.8f66513c.chunk.js",
+    "static/js/2.8f66513c.chunk.js.map": "/static/js/2.8f66513c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.9af896a7.chunk.css.map": "/static/css/2.9af896a7.chunk.css.map",
+    "static/css/main.8515bdc6.chunk.css.map": "/static/css/main.8515bdc6.chunk.css.map",
+    "static/js/2.8f66513c.chunk.js.LICENSE.txt": "/static/js/2.8f66513c.chunk.js.LICENSE.txt",
+    "static/media/Appstore.d0c58399.png": "/static/media/Appstore.d0c58399.png",
+    "static/media/Profile.697fdcd2.png": "/static/media/Profile.697fdcd2.png",
+    "static/media/belt.b7eb3295.webp": "/static/media/belt.b7eb3295.webp",
+    "static/media/belt1.ee398974.webp": "/static/media/belt1.ee398974.webp",
+    "static/media/card1.c1ea50ab.png": "/static/media/card1.c1ea50ab.png",
+    "static/media/card2.bd27f1ee.png": "/static/media/card2.bd27f1ee.png",
+    "static/media/card3.accdcf84.jpg": "/static/media/card3.accdcf84.jpg",
+    "static/media/Home.css": "/static/media/cover.e2edeab1.jfif",
+    "static/media/item2.7320b949.png": "/static/media/item2.7320b949.png",
+    "static/media/item3.05ab2824.jpg": "/static/media/item3.05ab2824.jpg",
+    "static/media/item7.a0e6a76b.webp": "/static/media/item7.a0e6a76b.webp",
+    "static/media/logo.afc47f34.jpg": "/static/media/logo.afc47f34.jpg",
+    "static/media/playstore.82b48319.png": "/static/media/playstore.82b48319.png",
+    "static/media/slide12.c5a01899.jpg": "/static/media/slide12.c5a01899.jpg",
+    "static/media/slide15.45f790d2.webp": "/static/media/slide15.45f790d2.webp",
+    "static/media/slide16.0465cbfd.webp": "/static/media/slide16.0465cbfd.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8233b8b5.js",
+    "static/css/2.9af896a7.chunk.css",
+    "static/js/2.8f66513c.chunk.js",
+    "static/css/main.8515bdc6.chunk.css",
+    "static/js/main.2a059f84.chunk.js"
+  ]
+}
